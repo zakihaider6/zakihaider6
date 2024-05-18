@@ -1,7 +1,7 @@
 # Welcome to my GitHub page 👋
 <div align="center">
   <img src="name.gif" alt="Zaki Haider" width="600" height="100" />
-  <img src="banner.jpg" alt="Zaki Haider" width="1200" height="300" />
+  <img src="banner.jpg" alt="Zaki Haider" width="1000" height="250" />
   
 </div>
 
