@@ -1,6 +1,6 @@
 # Welcome to my GitHub page 👋
 <div align="center">
-  <img src="zaki_haider_1.gif" alt="Zaki Haider" width="600" height="100" />
+  <img src="banner.jpg" alt="Zaki Haider" width="600" height="100" />
 </div>
 
 <h3 align="left">Connect with me:</h3>
