@@ -1,6 +1,7 @@
-<h3 align="center">👤 About Me</h3>
-
-- 📫 How to reach me **zakihaider6@gmail.com**
+# Welcome to my GitHub page 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/Aras_Gungore_2.gif" alt="Aras Gungore" width="433" height="74" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
