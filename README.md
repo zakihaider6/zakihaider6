@@ -1,6 +1,6 @@
 # Welcome to my GitHub page 👋
 <div align="center">
-  <img src="Banner.jpg" alt="Aras Gungore" width="433" height="74" />
+  <img src="zaki_haider_1.gif" alt="Zaki Haider" width="433" height="74" />
 </div>
 
 <h3 align="left">Connect with me:</h3>
